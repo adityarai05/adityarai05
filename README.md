@@ -2,7 +2,7 @@
 - Full Stack Developer focused on building scalable and impactful web applications<br>- Interested in AI-powered products, automation, and real-world problem solving<br>- Currently Building Orbix – an AI Customer Support SaaS with intelligent workflows & chatbot integration<br>- Strong in frontend development with responsive design and modern UI practices<br>- Tech Stack: HTML, CSS, JavaScript, Node.js, TypeScript, MongoDB<br>- Hands-on experience with Generative AI and data-driven applications
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityarai-017996375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaraii2005@gmail.com) 
 
 # Tech Stack:
